@@ -75,25 +75,8 @@ Each pattern is placed in a separate folder and includes:
 - ✅ Sample demo or output
 - ✅ Comments and explanations
 
-### 📂 Example Structure:
 
-Design-Pattern-Codes/
-├── Creational
-│ └── Singleton
-│ ├── Singleton.java
-│ └── README.md
-├── Structural
-│ └── Adapter
-│ ├── Adapter.java
-│ └── README.md
-├── Behavioral
-│ └── Observer
-│ ├── Observer.java
-│ └── README.md
-
-yaml
-Copy
-Edit
+and more will be added.....
 
 ---
 
