@@ -12,8 +12,7 @@ We have tried to strictly follow software design principles like:
   - **L**: Liskov Substitution Principle  
   - **I**: Interface Segregation Principle  
   - **D**: Dependency Inversion Principle  
-
----
+✨ More to be added as we continue learning.
 
 ## 📚 What are Design Patterns?
 
@@ -74,9 +73,6 @@ Each pattern is placed in a separate folder and includes:
 - ✅ Code Implementation (mostly in Java)
 - ✅ Sample demo or output
 - ✅ Comments and explanations
-
-
-and more will be added.....
 
 ---
 
