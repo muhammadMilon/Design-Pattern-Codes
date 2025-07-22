@@ -1,5 +1,3 @@
-// OCP_Inefficient.java
-
 class Circle {
     private double radius;
 
@@ -23,8 +21,6 @@ class Square {
         return side;
     }
 }
-
-// OCP_Inefficient.java (continued)
 
 class AreaCalculator {
     public double calculateArea(Object shape) {
